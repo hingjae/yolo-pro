@@ -1,0 +1,3 @@
+model
+custom/custom-train-yolo.cfg
+custom/*.jpg
